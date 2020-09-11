@@ -1,0 +1,4 @@
+flask
+plexapi
+pychromecast
+requests
