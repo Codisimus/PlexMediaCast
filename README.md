@@ -51,4 +51,4 @@ For external use, including voice command support, a static IP address is needed
 5. Review `voice_commands.txt` which s also generated within the `Output` directory
    - This lists the commands as well as the discovered devices
    - Check that each devices is listed and that the commands make sense
-6. Use the output JSON with **AutoIFTTT**
+6. Use the output JSON with [AutoIFTTT](https://github.com/Codisimus/AutoIFTTT)
